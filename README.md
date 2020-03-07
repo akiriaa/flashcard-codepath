@@ -4,7 +4,7 @@
 `TODO://` Users have the ability to a create custom flashcard
 
 ### App Walk-though
-<img src="https://i.imgur.com/7WQe5nu.gifv" width=200><br>
+<img src="https://i.imgur.com/7WQe5nu.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
