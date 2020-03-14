@@ -1,13 +1,11 @@
 ## Lab 3
 
 ### App Description
-`TODO://` Add app description
+`TODO://`Users can add multiple cards
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://i.imgur.com/iDwVCRE.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
